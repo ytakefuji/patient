@@ -11,5 +11,7 @@ data.csv is a data file composed of six determinants such as day (date of tested
 
 Based on data.csv, phope.py can calculate and predict values of biomarkers for the next visit.
 
-Predicting biomarker values allows patients to know the progress and trends of improvement in diseases. Predictive values are hopes of patients.
+Predicting biomarker values allows patients to know the progress and trends of improvement in their diseases. 
+
+Predictive values are hopes of patients.
 
