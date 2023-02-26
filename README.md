@@ -19,9 +19,9 @@ Predicting biomarker values allows patients to know the progress and trends of i
 
 Predictive values are hopes of patients.
 
-#How to install phope
+# How to install phope
 $ pip install phope
 
-#How to run phope
+# How to run phope
 $ phope
 
