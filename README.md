@@ -23,7 +23,7 @@ Columns 4 and 5 show the degree of polynomial regression for the first and secon
 
 Columns 6 and 7 show the range of vertical axis for the first and second biomarkers, respectively.
 
-Based on data.csv with state-of-the-art technology, phope.py can calculate and predict values of biomarkers for the next visit.
+Based on data.csv with state-of-the-art technology, phope or phope.py can calculate and predict values of biomarkers for the next visit.
 
 Predicting biomarker values allows patients to know the progress and trends of improvement in their diseases. 
 
