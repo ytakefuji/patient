@@ -19,6 +19,10 @@ The data.csv file must be created by the patient or physician before running the
 
 <img src="https://github.com/ytakefuji/patient/raw/main/fig.png" height=90 width=400>
 
+phope allows users to modify two biomarker's names such as hbA1c and NT-proBNP in data.csv.
+
+Determinants such as "day", y1 and y2 in data.csv should not be changed.
+
 phope is a universal biomarker prediction tool with the past data. This example shows two biomarkers such as hbA1c and NT-proBNP. 
 
 phope can predict any two biomakers simultaneously using the data in the second and third columns.
