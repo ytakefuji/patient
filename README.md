@@ -17,7 +17,7 @@ data.csv is a data file composed of seven determinants such as "day" (tested dat
 
 The data.csv file must be created by the patient or physician before running the program.
 
-<img src=" " height= width=>
+<img src="https://github.com/ytakefuji/patient/raw/main/fig.png" height=90 width=400>
 
 phope is a universal biomarker prediction tool with the past data. This example shows two biomarkers such as hbA1c and NT-proBNP. 
 
