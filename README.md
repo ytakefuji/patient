@@ -15,7 +15,7 @@ In phope.py, you can change it for your use.
 
 phope is a PyPI application. phope allows users to run on Windows, MacOS, and Linux operating systems as long as Python is installed on the system. phope can set left vertical axis and right vertical axis of two biomakers with data.csv.
 
-data.csv for phope is a data file composed of seven determinants such as "day" (tested date), "hgb" of hbA1c value (biomarker for diabetes), "ntbnp" of NT-proBNP value (biomarker for heart failure), "degree1" (polynomial regression for hbA1c), "degree2" (polynomial regression for NT-proBNP), the first vertical-axis range on left side (low and high), and the second vertical-axis range on right side (low and high).
+data.csv for phope is a data file composed of seven determinants such as "day" (tested date), "hbA1c" value (biomarker for diabetes), "NT-proBNP" value (biomarker for heart failure), "degree1" (polynomial regression for hbA1c), "degree2" (polynomial regression for NT-proBNP), the first vertical-axis range on left side (low and high), and the second vertical-axis range on right side (low and high).
 
 The data.csv file must be created by the patient or physician before running the program.
 
