@@ -9,7 +9,7 @@ with five determinants such as "day" (tested date), "hgb" of hbA1c value (biomar
 
 To run phope.py after creating a data.csv, type python phope.py in the terminal.
 
-<img src="https://github.com/ytakefuji/patient/raw/main/datacsv.png" height=90 width=300>
+<img src="https://github.com/ytakefuji/patient/raw/main/datacsv.png" height=90 width=290>
 
 In phope.py, you can change it for your use.
 
