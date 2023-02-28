@@ -31,7 +31,7 @@ phope can predict any two biomakers simultaneously using the data in the second 
 
 Columns 4 (degree1) and 5 (degree2) show the degree of polynomial regression for the first and second biomarkers, respectively.
 
-Columns 6 (y1) and 7 (y2) set the range of vertical axis for the first and second biomarkers, respectively.
+Columns 6 (y1) and 7 (y2) set the range of vertical axis for the first and second biomarkers, respectively. The range of y1 is from 5 to 9 and that of y2 is from 0 to 450.
 
 Based on data.csv with state-of-the-art technology using linear polynomial regression, phope or phope.py can calculate and predict values of biomarkers for the next visit.
 
