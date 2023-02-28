@@ -15,7 +15,7 @@ In phope.py, you can change it for your use.
 
 phope is a PyPI application. phope allows users to run on Windows, MacOS, and Linux operating systems as long as Python is installed on the system. phope can set left vertical axis and right vertical axis of two biomakers with data.csv.
 
-data.csv for phope is a data file composed of seven determinants such as "day" (tested date), "hbA1c" value (biomarker for diabetes), "NT-proBNP" value (biomarker for heart failure), "degree1" (polynomial regression for hbA1c), "degree2" (polynomial regression for NT-proBNP), the first vertical-axis range on left side (low and high), and the second vertical-axis range on right side (low and high).
+data.csv for phope is a data file composed of seven determinants such as "day" (tested date), "hbA1c" value (biomarker for diabetes), "NT-proBNP" value (biomarker for heart failure), "degree1" (polynomial regression for hbA1c), "degree2" (polynomial regression for NT-proBNP), the left vertical-axis range (low and high), and the right vertical-axis range (low and high).
 
 The data.csv file must be created by the patient or physician before running the program.
 
@@ -33,7 +33,7 @@ Columns 4 (degree1) and 5 (degree2) show the degree of polynomial regression for
 
 Columns 6 (y1) and 7 (y2) set the range of vertical axis for the first and second biomarkers, respectively. The range of y1 is from 5 to 9 and that of y2 is from 0 to 450.
 
-Based on data.csv with state-of-the-art technology using linear polynomial regression, phope or phope.py can calculate and predict values of biomarkers for the next visit.
+Based on data.csv with state-of-the-art technology using linear polynomial regressions, phope or phope.py can calculate and predict values of biomarkers for the next visit.
 
 R2-squared value can identify the best polynomial model. The higher the R2-squared, the better the prediction accuracy.
 
