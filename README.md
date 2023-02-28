@@ -29,9 +29,9 @@ phope is a universal biomarker prediction tool with the past data. This example 
 
 phope can predict any two biomakers simultaneously using the data in the second and third columns.
 
-Columns 4 and 5 show the degree of polynomial regression for the first and second biomarkers, respectively.
+Columns 4 (degree1) and 5 (degree2) show the degree of polynomial regression for the first and second biomarkers, respectively.
 
-Columns 6 and 7 set the range of vertical axis for the first and second biomarkers, respectively.
+Columns 6 (y1) and 7 (y2) set the range of vertical axis for the first and second biomarkers, respectively.
 
 Based on data.csv with state-of-the-art technology, phope or phope.py can calculate and predict values of biomarkers for the next visit.
 
