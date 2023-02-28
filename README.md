@@ -33,7 +33,9 @@ Columns 4 (degree1) and 5 (degree2) show the degree of polynomial regression for
 
 Columns 6 (y1) and 7 (y2) set the range of vertical axis for the first and second biomarkers, respectively.
 
-Based on data.csv with state-of-the-art technology, phope or phope.py can calculate and predict values of biomarkers for the next visit.
+Based on data.csv with state-of-the-art technology using linear polynomial regression, phope or phope.py can calculate and predict values of biomarkers for the next visit.
+
+R2-squared value can identify the best polynomial model. The higher the R2-squared, the better the prediction accuracy.
 
 Predicting biomarker values allows patients to know the progress and trends of improvement in their diseases. 
 
