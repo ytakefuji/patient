@@ -45,5 +45,7 @@ Predictive values are hopes of patients.
 $ pip install phope
 
 # How to run phope
+Make sure that data.csv file with severn determinants is the same directory for running phope.
+
 $ phope
 
