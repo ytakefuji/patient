@@ -21,7 +21,7 @@ The data.csv file must be created by the patient or physician before running the
 
 <img src="https://github.com/ytakefuji/patient/raw/main/fig.png" height=90 width=400>
 
-phope allows users to modify two biomarker's names such as hbA1c and NT-proBNP with data.csv.
+phope allows users to modify two biomarker's names such as hbA1c and NT-proBNP in data.csv.
 
 Five determinant names such as "day", degree1, degree2, y1 and y2 in data.csv should not be changed in data.csv.
 
