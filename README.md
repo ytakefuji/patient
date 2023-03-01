@@ -8,6 +8,8 @@ phope.py (Patient for Hospital Observation and Predicting Effects of medication 
 with five determinants such as "day" (tested date), "hgb" of hbA1c value (biomarker for diabetes), "ntbnp" of NT-proBNP value (biomarker for heart failure), "degree1" (polynomial regression for hbA1c), and "degree2" (polynomial regression for NT-proBNP) is a universal biomarker prediction tool that can be used for evaluating the performance and predicting values of biomarkers in the next hospital visit.
 
 To run phope.py after creating a data.csv, type python phope.py in the terminal.
+The following table is an example of data.csv. 
+2023/4/10 is the date of the next hospital visit.
 
 <img src="https://github.com/ytakefuji/patient/raw/main/datacsv.png" height=90 width=290>
 
