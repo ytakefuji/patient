@@ -37,7 +37,7 @@ Columns 6 (y1) and 7 (y2) set the range of vertical axis for the first and secon
 
 Based on data.csv with state-of-the-art technology using linear polynomial regressions, phope or phope.py can calculate and predict values of biomarkers for the next hospital visit.
 
-R2-squared value can identify the best polynomial model. The higher the R2-squared, the better the prediction accuracy.
+R2-squared value can identify the best polynomial regression model. The higher the R2-squared, the better the prediction accuracy.
 
 Predicting biomarker values allows patients to know the progress and trends of improvement in their diseases. 
 
