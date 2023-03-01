@@ -16,6 +16,7 @@ The following table is an example of data.csv.
 In phope.py, you can change Python codes for your use.
 
 phope is a PyPI application. phope allows users to run on Windows, MacOS, and Linux operating systems as long as Python is installed on the system. phope can set left vertical axis and right vertical axis of two biomakers with data.csv.
+phope is a universal biomarker prediction tool with data.csv. 
 
 data.csv for phope is a data file composed of seven determinants such as "day" (tested date), "hbA1c" value (biomarker for diabetes), "NT-proBNP" value (biomarker for heart failure), "degree1" (polynomial regression for hbA1c), "degree2" (polynomial regression for NT-proBNP), the left vertical-axis range (low and high), and the right vertical-axis range (low and high).
 
@@ -25,9 +26,10 @@ The data.csv file must be created by the patient or physician before running the
 
 phope allows users to modify two biomarker's names such as hbA1c and NT-proBNP in data.csv.
 
-Five determinant names such as "day", degree1, degree2, y1 and y2 in data.csv should not be changed in data.csv.
+Five determinant names such as "day", "degree1", "degree2", 
+"y1" and "y2" in data.csv should not be changed in data.csv.
 
-phope is a universal biomarker prediction tool with data.csv. This example shows two biomarkers such as hbA1c and NT-proBNP. 
+This example shows two biomarkers such as hbA1c and NT-proBNP. 
 
 phope can predict any two biomakers simultaneously with data.csv in the second and third columns.
 
