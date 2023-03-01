@@ -42,7 +42,7 @@ Predicting biomarker values allows patients to know the progress and trends of i
 Predictive values are hopes of patients.
 
 # How to install phope
-If you receive an error message, Python may not be installed properly.
+If you receive an error message in installation, Python may not be installed properly.
 
 $ pip install phope
 
