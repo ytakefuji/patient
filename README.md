@@ -11,6 +11,7 @@ To run phope.py after creating a data.csv, type python phope.py in the terminal.
 The following table is an example of data.csv. 
 2023/4/10 is the date of the next hospital visit.
 
+# An example of data.csv for phope.py
 <img src="https://github.com/ytakefuji/patient/raw/main/datacsv.png" height=90 width=290>
 
 In phope.py, you can change Python codes for your use.
@@ -24,6 +25,7 @@ data.csv for phope is a data file composed of seven determinants such as "day" (
 
 The data.csv file must be created by the patient or physician before running the program as shown in the following table.
 
+# An example of data.csv for phope
 <img src="https://github.com/ytakefuji/patient/raw/main/fig.png" height=90 width=400>
 
 phope allows users to modify two biomarker's names such as hbA1c and NT-proBNP in data.csv.
