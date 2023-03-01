@@ -13,7 +13,7 @@ The following table is an example of data.csv.
 
 <img src="https://github.com/ytakefuji/patient/raw/main/datacsv.png" height=90 width=290>
 
-In phope.py, you can change it for your use.
+In phope.py, you can change Python codes for your use.
 
 phope is a PyPI application. phope allows users to run on Windows, MacOS, and Linux operating systems as long as Python is installed on the system. phope can set left vertical axis and right vertical axis of two biomakers with data.csv.
 
