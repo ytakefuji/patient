@@ -17,7 +17,7 @@ phope is a PyPI application. phope allows users to run on Windows, MacOS, and Li
 
 data.csv for phope is a data file composed of seven determinants such as "day" (tested date), "hbA1c" value (biomarker for diabetes), "NT-proBNP" value (biomarker for heart failure), "degree1" (polynomial regression for hbA1c), "degree2" (polynomial regression for NT-proBNP), the left vertical-axis range (low and high), and the right vertical-axis range (low and high).
 
-The data.csv file must be created by the patient or physician before running the program.
+The data.csv file must be created by the patient or physician before running the program as shown in the following table.
 
 <img src="https://github.com/ytakefuji/patient/raw/main/fig.png" height=90 width=400>
 
