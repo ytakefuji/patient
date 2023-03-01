@@ -35,7 +35,7 @@ Five determinant names such as "day", "degree1", "degree2",
 
 This example shows two biomarkers such as hbA1c and NT-proBNP. 
 
-phope can predict any two biomakers simultaneously with data.csv in the second and third columns.
+phope can predict any two biomakers simultaneously with the second and third columns in data.csv.
 
 Columns 4 (degree1) and 5 (degree2) show the degree of polynomial regression for the first and second biomarkers, respectively.
 
