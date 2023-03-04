@@ -61,4 +61,4 @@ Make sure that data.csv file is the same directory for running phope.
 
 $ phope
 
-The result will be displayed on your screen and the png image file is also generated.
+The result will be displayed on your screen and the png image file will be also generated.
