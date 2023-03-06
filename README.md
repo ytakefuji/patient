@@ -16,7 +16,8 @@ The following table is an example of data.csv.
 
 In phope.py, you can change Python codes for your use.
 
-phope is a PyPI universal biomarker prediction tool with data.csv. 
+phope was developed based on phope.py 
+which is a PyPI universal biomarker prediction tool with data.csv. 
 PyPI allows phope to run on Windows, MacOS, and Linux operating systems 
 as long as Python is installed on the system. 
 phope can set left vertical axis and right vertical axis of two biomakers with data.csv.
